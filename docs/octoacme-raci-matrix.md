@@ -51,7 +51,7 @@ Quick-reference guide showing who is **R**esponsible, **A**ccountable, **C**onsu
 | Activity | PM | PdM | Dev | Scrum Master | BA | UX | Release Mgr | Security Champion |
 |---|---|---|---|---|---|---|---|---|
 | Release readiness sign-off | C | C | C | I | I | I | A/R | C |
-| Go/no-go decision | A | A | I | I | I | I | R | C |
+| Go/no-go decision | C | C | I | I | I | I | A/R | C |
 | Deployment execution | I | I | R | I | I | I | A/R | I |
 | Release notes & announcement | C | C | I | I | I | I | A/R | I |
 | Security clearance pre-release | I | I | I | I | I | I | C | A/R |
