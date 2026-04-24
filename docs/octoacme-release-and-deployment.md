@@ -10,12 +10,14 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
-- Passing CI and security scans
-- Release notes drafted
+- Passing CI and security scans (see [Security Touchpoints Checklist](octoacme-security-touchpoints.md))
+- Release notes drafted by **Release Manager** and reviewed by Product Manager
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- **Release Manager** completes the [Release Readiness Checklist](octoacme-release-readiness-checklist.md) and collects go/no-go sign-offs
 
 ## Deployment Checklist
+- [ ] **Release Manager** confirms all go/no-go sign-offs collected (see [Release Readiness Checklist](octoacme-release-readiness-checklist.md))
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests

@@ -21,7 +21,10 @@ Roles are explicit to reduce ambiguity and speed decisions: the **Project Manage
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk register format, escalation paths, communication templates, and cadence guidance. |
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release checklist, deployment process, rollback planning, and post-release verification steps. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, how to capture learnings, and how to track and close improvement action items. |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and typical communication patterns for each role (PM, PdM, Developers, QA, Stakeholders). |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and typical communication patterns for each role (PM, PdM, Developers, Scrum Master, UX Designer, Release Manager, Security Champion, Business Analyst). |
+| [RACI Matrix](octoacme-raci-matrix.md) | Quick-reference responsibility matrix and handoff map across all roles and project phases. |
+| [Release Readiness Checklist](octoacme-release-readiness-checklist.md) | Go/no-go checklist with role-based sign-offs required before every production release. |
+| [Security Touchpoints Checklist](octoacme-security-touchpoints.md) | Security activities and gates for each phase: planning, implementation, pre-release, and post-release. |
 
 ## How to Use These Documents
 

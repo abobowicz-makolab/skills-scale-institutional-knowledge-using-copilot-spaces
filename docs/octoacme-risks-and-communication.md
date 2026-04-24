@@ -39,4 +39,4 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, the **Security Champion** is the first point of contact; follow the security incident runbook and notify Security on-call. See [Security Touchpoints Checklist](octoacme-security-touchpoints.md) for pre-release and ongoing security gates.
